@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/mythily-t-m-530608277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mythily-t-m-530608277" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mythu03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mythu03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mythily_ec21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mythily_ec21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mythily25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mythily25" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mythily5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mythily5" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mythily.ec21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mythily.ec21" height="30" width="40" /></a>
 </p>
 
