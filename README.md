@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm MYTHILY</h1>
-<h3 align="center">A Digital Electronics Enthusiast Specializing in Embedded Systems Design from India</h3>
+<h3 align="center">A Digital Electronics Enthusiast Specializing in Embedded Systems Design and Proficient in C, C++, JAVA, Problem-Solving and Skilled in LABVIEW </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythily7&label=Profile%20views&color=0e75b6&style=flat" alt="mythily7" /> </p>
 
