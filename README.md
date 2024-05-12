@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **mythilytm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aNKIB-G2fUEePqhzyq_eFZsE_4sZZTan/view?usp=sharing](https://drive.google.com/file/d/1aNKIB-G2fUEePqhzyq_eFZsE_4sZZTan/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mythily-t-m-530608277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mythily-t-m-530608277" height="30" width="40" /></a>
