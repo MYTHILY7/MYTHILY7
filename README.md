@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm MYTHILY T M</h1>
-<h3 align="center">Digital Electronics & Embedded Systems Enthusiast | Aspiring Software Developer | LABVIEW | Passionate about Technology and Innovation</h3>
+<h3 align="center">Frontend Developer | Aspiring Software Developer | LABVIEW | Passionate about Technology and Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythily7&label=Profile%20views&color=0e75b6&style=flat" alt="mythily7" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **LabView**
+- 💬 Ask me about **Front-end Development**
 
 - 📫 How to reach me **mythilytm@gmail.com**
 
